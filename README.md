@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ronit873/LEETCODE-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ronit873/LEETCODE-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ronit873/LEETCODE-/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/ronit873/LEETCODE-/tree/master/0172-factorial-trailing-zeroes) |
 ## Enumeration
 |  |
 | ------- |
