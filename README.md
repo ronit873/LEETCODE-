@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit873/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ronit873/LEETCODE-/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/ronit873/LEETCODE-/tree/master/0174-dungeon-game) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ronit873/LEETCODE-/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/ronit873/LEETCODE-/tree/master/0174-dungeon-game) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/ronit873/LEETCODE-/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
