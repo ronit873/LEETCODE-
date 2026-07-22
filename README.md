@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ronit873/LEETCODE-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ronit873/LEETCODE-/tree/master/0168-excel-sheet-column-title) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ronit873/LEETCODE-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,8 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit873/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit873/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
