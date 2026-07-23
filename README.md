@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ronit873/LEETCODE-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ronit873/LEETCODE-/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ronit873/LEETCODE-/tree/master/0172-factorial-trailing-zeroes) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ronit873/LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronit873/LEETCODE-/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/ronit873/LEETCODE-/tree/master/0174-dungeon-game) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ronit873/LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ronit873/LEETCODE-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ronit873/LEETCODE-/tree/master/0176-second-highest-salary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ronit873/LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
