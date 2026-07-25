@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ronit873/LEETCODE-/tree/master/0189-rotate-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ronit873/LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronit873/LEETCODE-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ronit873/LEETCODE-/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ronit873/LEETCODE-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ronit873/LEETCODE-/tree/master/0179-largest-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/ronit873/LEETCODE-/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
