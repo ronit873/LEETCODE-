@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ronit873/LEETCODE-/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ronit873/LEETCODE-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ronit873/LEETCODE-/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ronit873/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ronit873/LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronit873/LEETCODE-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ronit873/LEETCODE-/tree/master/3536-maximum-product-of-two-digits) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ronit873/LEETCODE-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ronit873/LEETCODE-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ronit873/LEETCODE-/tree/master/0198-house-robber) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ronit873/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ronit873/LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronit873/LEETCODE-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ronit873/LEETCODE-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ronit873/LEETCODE-/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ronit873/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ronit873/LEETCODE-/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
