@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ronit873/LEETCODE-/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ronit873/LEETCODE-/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ronit873/LEETCODE-/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/ronit873/LEETCODE-/tree/master/0205-isomorphic-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ronit873/LEETCODE-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronit873/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronit873/LEETCODE-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronit873/LEETCODE-/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ronit873/LEETCODE-/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ronit873/LEETCODE-/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ronit873/LEETCODE-/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
