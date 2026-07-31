@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ronit873/LEETCODE-/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ronit873/LEETCODE-/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ronit873/LEETCODE-/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronit873/LEETCODE-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronit873/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ronit873/LEETCODE-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ronit873/LEETCODE-/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ronit873/LEETCODE-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ronit873/LEETCODE-/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronit873/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronit873/LEETCODE-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ronit873/LEETCODE-/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
