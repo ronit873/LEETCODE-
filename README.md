@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ronit873/LEETCODE-/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ronit873/LEETCODE-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronit873/LEETCODE-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronit873/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ronit873/LEETCODE-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ronit873/LEETCODE-/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ronit873/LEETCODE-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ronit873/LEETCODE-/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Prefix Sum
 |  |
 | ------- |
