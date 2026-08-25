@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ronit873/LEETCODE-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
 | [1927-sum-game](https://github.com/ronit873/LEETCODE-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronit873/LEETCODE-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronit873/LEETCODE-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ronit873/LEETCODE-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ronit873/LEETCODE-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ronit873/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
 | [0486-predict-the-winner](https://github.com/ronit873/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronit873/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ronit873/LEETCODE-/tree/master/0877-stone-game) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/ronit873/LEETCODE-/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
 ## Database
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronit873/LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
