@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/ronit873/LEETCODE-/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/ronit873/LEETCODE-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronit873/LEETCODE-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ronit873/LEETCODE-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ronit873/LEETCODE-/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/ronit873/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ronit873/LEETCODE-/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ronit873/LEETCODE-/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ronit873/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ronit873/LEETCODE-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronit873/LEETCODE-/tree/master/1510-stone-game-iv) |
