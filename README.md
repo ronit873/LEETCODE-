@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/ronit873/LEETCODE-/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ronit873/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ronit873/LEETCODE-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronit873/LEETCODE-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ronit873/LEETCODE-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ronit873/LEETCODE-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
+| [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ronit873/LEETCODE-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ronit873/LEETCODE-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ronit873/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronit873/LEETCODE-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ronit873/LEETCODE-/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronit873/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ronit873/LEETCODE-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ronit873/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ronit873/LEETCODE-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ronit873/LEETCODE-/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ronit873/LEETCODE-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ronit873/LEETCODE-/tree/master/0210-course-schedule-ii) |
+| [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronit873/LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -442,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ronit873/LEETCODE-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ronit873/LEETCODE-/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
