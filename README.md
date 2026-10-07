@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ronit873/LEETCODE-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronit873/LEETCODE-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ronit873/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ronit873/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ronit873/LEETCODE-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit873/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ronit873/LEETCODE-/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ronit873/LEETCODE-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ronit873/LEETCODE-/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ronit873/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ronit873/LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/ronit873/LEETCODE-/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ronit873/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ronit873/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronit873/LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
